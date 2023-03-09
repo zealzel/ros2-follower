@@ -1,0 +1,3 @@
+[submodule "ros2_leg_detector"]
+	path = ros2_leg_detector
+	url = https://github.com/mowito/ros2_leg_detector.git
